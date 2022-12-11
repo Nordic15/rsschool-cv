@@ -16,3 +16,9 @@ function multiply(a, b){
  return a * b;
 }
 ```
+## Experience
+05.12.2022 - present now "RS School" trainee
+## Education
+Electrotechnic College
+## English
+A2
