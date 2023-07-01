@@ -1,4 +1,4 @@
- # Denis Panamarev
+  # Denis Panamarev
 ![DgSwwYJ7QQI](https://github.com/Nordic15/rsschool-cv/assets/119883985/dd642d98-afdb-411a-86d7-a619339c5984)
 
 
